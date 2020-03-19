@@ -27,38 +27,42 @@
             <div class="photo" style="background-image: url(assets/img/permen.jpg);"></div>
         </div>
         <div class="description">
-            <h1>Permen</h1>
-            <p>Web disigner</p>
-            <a href="#" class="button bg-green">Contact</a>
+            <h1 id="pName">Permen</h1>
+            <p id="pRole">Web disigner</p>
+            <a href="#input-form" class="button bg-green" onclick="editForm()">Edit</a>
             <a href="#" class="button border-blue">Resume</a>
         </div>
         <div class="information">
             <div class="data">
+                <p class="field">Available</p>
+                <p class="text-gray" id="pAvailable">Full time</p>
+            </div>
+            <div class="data">
                 <p class="field">Age</p>
-                <p class="text-gray">17</p>
+                <p class="text-gray" id="pAge">17</p>
             </div>
             <div class="data">
                 <p class="field">Location</p>
-                <p class="text-gray">Jogja</p>
+                <p class="text-gray" id="pLocation">Jogja</p>
             </div>
             <div class="data">
                 <p class="field">Year Experiance</p>
-                <p class="text-gray">6</p>
+                <p class="text-gray" id="pExperience">6</p>
             </div>
             <div class="data">
                 <p class="field">Email</p>
-                <p class="text-gray">ngawur@gmail.com</p>
+                <p class="text-gray" id="pEmail">ngawur@gmail.com</p>
             </div>
         </div>
     </section>
     <section id="input-form">
         <form action="" method="">
             <div class="form">
-                <label for="name">Name</label>
+                <label for="name" id="inpName">Name</label>
                 <input type="text" name="name">
                 </divcla>
                 <div class="form">
-                    <label for="role">Role</label>
+                    <label for="role" id="inpRole">Role</label>
                     <input type="text" name="role">
                 </div>
                 <div class="form">
