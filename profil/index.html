@@ -58,39 +58,66 @@
     <section id="input-form">
         <form action="" method="">
             <div class="form">
-                <label for="name" id="inpName">Name</label>
-                <input type="text" name="name">
+                <label for="name">Name</label>
+                <input type="text" id="inpName" name="name">
                 </divcla>
                 <div class="form">
-                    <label for="role" id="inpRole">Role</label>
-                    <input type="text" name="role">
+                    <label for="role">Role</label>
+                    <input type="text" id="inpRole" name="role">
                 </div>
                 <div class="form">
                     <label for="availability">Availability</label>
-                    <input type="text" name="availability">
+                    <input type="text" id="inpAvailable" name="availability">
                 </div>
                 <div class="form">
                     <label for="age">Age</label>
-                    <input type="number" name="age">
+                    <input type="number" id="inpAge" name="age">
                 </div>
                 <div class="form">
                     <label for="location">Location</label>
-                    <input type="number" name="location">
+                    <input type="text" id="inpLocation" name="location">
                 </div>
                 <div class="form">
                     <label for="experience">Year experiance</label>
-                    <input type="number" name="experience">
+                    <input type="number" id="inpExperience" name="experience">
                 </div>
                 <div class="form">
                     <label for="email">Email</label>
-                    <input type="number" name="email">
+                    <input type="email" id="inpEmail" name="email">
                 </div>
                 <div>
-                    <input type="submit" name="submit" value="SUBMIT" class="bg-blue">
+                    <input type="submit" onclick="simpanForm()" name="submit" value="SUBMIT" class="bg-blue">
                 </div>
         </form>
     </section>
     <script>
+        var formMenu = document.getElementById("input-form");
+        formMenu.style.display = "none";
+
+        function editForm() {
+            if (formMenu.style.display === "none") {
+                formMenu.style.display = "block";
+            } else {
+                formMenu.style.display = "none";
+            }
+
+            var name = document.getElementById("pName").innerHTML;
+            var role = document.getElementById("pRole").innerHTML;
+            var name = document.getElementById("pAvailable").innerHTML;
+            var age = document.getElementById("pAge").innerHTML;
+            var location = document.getElementById("pLocation").innerHTML;
+            var experience = document.getElementById("pExperience").innerHTML;
+            var Email = document.getElementById("pEmail").innerHTML;
+
+            document.getElementById("inpName").value = name;
+            document.getElementById("inpRole").value = role;
+            document.getElementById("inpAvailable").value = name;
+            document.getElementById("inpAge").value = age;
+            document.getElementById("inpLocation").value = location;
+            document.getElementById("inpExperience").value = experience;
+            document.getElementById("inpEmail").value = Email;
+        }
+
         function showMenu() {
             var menu = document.getElementById("menu");
             var box = document.getElementById("box-profile");
