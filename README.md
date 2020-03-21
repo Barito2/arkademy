@@ -1,4 +1,4 @@
-<h1>no. 6</h1>
+<h1>no. 6A</h1>
 <h3>aplikasi yang digunakan</h3><br>
 1. phpMyadmin<br>
 2. Framework Codeigniter versi 3.1.10<br>
@@ -16,6 +16,13 @@
 <img src="https://user-images.githubusercontent.com/57344019/77226694-e5130f80-6bac-11ea-987e-d1dc08c6b631.jpg"><br><br>
 5. pada form file to import klik buutom "Choose file", kemudian cari file sql yang terdapat di dalam directory <i><b>store/database</b></i><br>
 <img src="https://user-images.githubusercontent.com/57344019/77226805-9dd94e80-6bad-11ea-9b79-9b099fa7ea99.jpg"><br><br>
-6. database berhasil di buat
-
-
+6. database berhasil di buat<br><br>
+<h1>no. 6B</h1>
+1.Home<br>
+<img src="https://user-images.githubusercontent.com/57344019/77226888-47b8db00-6bae-11ea-95f3-4c99026e3e7e.jpg"><br><br>
+2. add<br>
+<img src="https://user-images.githubusercontent.com/57344019/77226932-9ebeb000-6bae-11ea-8533-679cb0779487.jpg"><br><br>
+3. delete<br>
+<img src="https://user-images.githubusercontent.com/57344019/77226963-c281f600-6bae-11ea-921b-13a3123c9dd1.jpg"><br><br>
+4. update<br>
+<img src="https://user-images.githubusercontent.com/57344019/77226981-e34a4b80-6bae-11ea-974b-db7772a3f892.jpg"><br><br>
