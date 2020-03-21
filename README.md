@@ -10,5 +10,7 @@
 <img src="https://user-images.githubusercontent.com/57344019/77226306-decf6400-6ba9-11ea-930e-c767dc1ff5b4.jpg" height="300px" width="500px;"><br><br>
 2.  kemudian klick button admin pada server Mysql kemudian akan masuk ke halaman website seperti berikut kemuadian klik menu "new", pada side bar<br>
 <img src="https://user-images.githubusercontent.com/57344019/77226472-37ebc780-6bab-11ea-8857-e2021dd8d8c6.jpg"><br><br>
+3. pada form create database isikan "belajar_store" kemudian klil create<br>
+<img src="https://user-images.githubusercontent.com/57344019/77226472-37ebc780-6bab-11ea-8857-e2021dd8d8c6.jpg"><br><br>
 
 
