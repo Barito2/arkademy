@@ -31,3 +31,4 @@
 <h1>no. 6C</h1>
 1. controller Home, function index dan Food_m<br>
 <img src="https://user-images.githubusercontent.com/57344019/77227186-e9412c00-6bb0-11ea-8417-3e9d51d9d11f.jpg" height="300px" width="430px;">
+<img src="https://user-images.githubusercontent.com/57344019/77227241-6d93af00-6bb1-11ea-85aa-a46afa8cb875.jpg" height="300px" width="430px;">
