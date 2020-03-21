@@ -6,7 +6,8 @@
 4. XAMPP<br>
 
 <h1>cara instalsi</h1><br>
-1. buka XAMPP, dan hidupkan server aphace dan MySQL
+1. buka XAMPP, dan hidupkan server aphace dan MySQL<br>
+![xampp](https://user-images.githubusercontent.com/57344019/77226306-decf6400-6ba9-11ea-930e-c767dc1ff5b4.jpg)
 
 
 
