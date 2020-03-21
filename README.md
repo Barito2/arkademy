@@ -39,5 +39,5 @@
 <img src="https://user-images.githubusercontent.com/57344019/77227445-0f67cb80-6bb3-11ea-8eac-d2f1a5af478a.jpg" height="300px" width="600px;">
 <img src="https://user-images.githubusercontent.com/57344019/77227447-1262bc00-6bb3-11ea-826f-c1b72124fd91.jpg" height="300px" width="430px;"><br><br>
 4. controller Home, function del dan Food_m<br>
-<img src="https://user-images.githubusercontent.com/57344019/77227499-5229a380-6bb3-11ea-8a99-e5526f6ac5c5.jpg" height="300px" width="430px;">
-<img src="https://user-images.githubusercontent.com/57344019/77227503-55bd2a80-6bb3-11ea-9325-d1a5cdbf81c5.jpg" height="300px" width="430px;"><br><br>
+<img src="https://user-images.githubusercontent.com/57344019/77227499-5229a380-6bb3-11ea-8a99-e5526f6ac5c5.jpg" height="300px" width="600px;">
+<img src="https://user-images.githubusercontent.com/57344019/77227503-55bd2a80-6bb3-11ea-9325-d1a5cdbf81c5.jpg" height="300px" width="600px;"><br><br>
