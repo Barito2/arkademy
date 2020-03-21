@@ -1,7 +1,7 @@
 <h1>no. 6</h1>
 <h3>aplikasi yang digunakan</h3><br>
 1. phpMyadmin<br>
-2. Codeigniter versi 3.1.10<br>
+2. Framework Codeigniter versi 3.1.10<br>
 3. visual studio code<br>
 4. XAMPP<br>
 
@@ -13,6 +13,8 @@
 3. pada form create database isikan "belajar_store" kemudian klil create<br>
 <img src="https://user-images.githubusercontent.com/57344019/77226586-10492f00-6bac-11ea-9c1b-3fbc5885087a.jpg"><br><br>
 4. sekarang database telah berhasil dibuat kemudian kelik menu import<br>
+<img src="https://user-images.githubusercontent.com/57344019/77226694-e5130f80-6bac-11ea-987e-d1dc08c6b631.jpg"><br><br>
+5. pada form file to import klik buutom "Choose file", kemudian cari file sql yang terdapat di dalam directory <i>store/database<i><br>
 <img src="https://user-images.githubusercontent.com/57344019/77226694-e5130f80-6bac-11ea-987e-d1dc08c6b631.jpg"><br><br>
 
 
