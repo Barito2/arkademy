@@ -26,3 +26,6 @@
 <img src="https://user-images.githubusercontent.com/57344019/77226963-c281f600-6bae-11ea-921b-13a3123c9dd1.jpg"><br><br>
 4. update<br>
 <img src="https://user-images.githubusercontent.com/57344019/77226981-e34a4b80-6bae-11ea-974b-db7772a3f892.jpg"><br><br>
+<h1>no. 6C</h1>
+1. controller Home, function index dan Food_m<br>
+<img src="https://user-images.githubusercontent.com/57344019/77227186-e9412c00-6bb0-11ea-8417-3e9d51d9d11f.jpg" height="300px" width="500px;>
