@@ -12,5 +12,7 @@
 <img src="https://user-images.githubusercontent.com/57344019/77226472-37ebc780-6bab-11ea-8857-e2021dd8d8c6.jpg"><br><br>
 3. pada form create database isikan "belajar_store" kemudian klil create<br>
 <img src="https://user-images.githubusercontent.com/57344019/77226586-10492f00-6bac-11ea-9c1b-3fbc5885087a.jpg"><br><br>
+4. sekarang database telah berhasil dibuat kemudian kelik menu import<br>
+<img src="https://user-images.githubusercontent.com/57344019/77226586-10492f00-6bac-11ea-9c1b-3fbc5885087a.jpg"><br><br>
 
 
