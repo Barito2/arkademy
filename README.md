@@ -15,6 +15,7 @@
 4. sekarang database telah berhasil dibuat kemudian kelik menu import<br>
 <img src="https://user-images.githubusercontent.com/57344019/77226694-e5130f80-6bac-11ea-987e-d1dc08c6b631.jpg"><br><br>
 5. pada form file to import klik buutom "Choose file", kemudian cari file sql yang terdapat di dalam directory <i>store/database<i><br>
-<img src="https://user-images.githubusercontent.com/57344019/77226694-e5130f80-6bac-11ea-987e-d1dc08c6b631.jpg"><br><br>
+<img src="https://user-images.githubusercontent.com/57344019/77226805-9dd94e80-6bad-11ea-9b79-9b099fa7ea99.jpg"><br><br>
+6. database berhasil di buat
 
 
