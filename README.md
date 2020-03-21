@@ -7,6 +7,8 @@
 
 <h1>cara instalsi</h1><br>
 1. buka XAMPP, dan hidupkan server aphace dan MySQL<br>
-<img src="https://user-images.githubusercontent.com/57344019/77226306-decf6400-6ba9-11ea-930e-c767dc1ff5b4.jpg" height="300px" width="500px;">
+<img src="https://user-images.githubusercontent.com/57344019/77226306-decf6400-6ba9-11ea-930e-c767dc1ff5b4.jpg" height="300px" width="500px;"><br><br>
+2.  kemudian klick button admin pada server Mysql kemudian akan masuk ke halaman website seperti berikut kemuadian klik menu "new", pada side bar<br>
+<img src="https://user-images.githubusercontent.com/57344019/77226306-decf6400-6ba9-11ea-930e-c767dc1ff5b4.jpg" height="300px" width="500px;"><br><br>
 
 
