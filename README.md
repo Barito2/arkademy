@@ -30,5 +30,8 @@
 <img src="https://user-images.githubusercontent.com/57344019/77226981-e34a4b80-6bae-11ea-974b-db7772a3f892.jpg"><br><br>
 <h1>no. 6C</h1>
 1. controller Home, function index dan Food_m<br>
-<img src="https://user-images.githubusercontent.com/57344019/77227186-e9412c00-6bb0-11ea-8417-3e9d51d9d11f.jpg" height="300px" width="430px;">
-<img src="https://user-images.githubusercontent.com/57344019/77227241-6d93af00-6bb1-11ea-85aa-a46afa8cb875.jpg" height="300px" width="430px;">
+<img src="https://user-images.githubusercontent.com/57344019/77227186-e9412c00-6bb0-11ea-8417-3e9d51d9d11f.jpg" height="300px" width="600px;">
+<img src="https://user-images.githubusercontent.com/57344019/77227241-6d93af00-6bb1-11ea-85aa-a46afa8cb875.jpg" height="300px" width="430px;"><br><br>
+2. controller Home, function add dan Food_m<br>
+<img src="https://user-images.githubusercontent.com/57344019/77227370-805ab380-6bb2-11ea-97b8-59a372454e5b.jpg" height="300px" width="430px;">
+<img src="https://user-images.githubusercontent.com/57344019/77227373-83ee3a80-6bb2-11ea-9420-408a4e03004d.jpg" height="300px" width="430px;">
