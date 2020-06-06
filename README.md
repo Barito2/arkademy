@@ -21,3 +21,13 @@
 ![del](https://user-images.githubusercontent.com/57344019/83946275-f5489b80-a839-11ea-9850-2be3f44fb166.jpg)
 ### Edit
 ![edit](https://user-images.githubusercontent.com/57344019/83946287-08f40200-a83a-11ea-9ad5-149c40ea4805.jpg)
+
+## 3C
+### Home
+![home](https://user-images.githubusercontent.com/57344019/83946434-0ba32700-a83b-11ea-9dd0-af8ecccbebc2.jpg)
+### Add
+![add](https://user-images.githubusercontent.com/57344019/83946448-18c01600-a83b-11ea-8830-19c18be57e7a.jpg)
+### Delete
+![delete](https://user-images.githubusercontent.com/57344019/83946464-41e0a680-a83b-11ea-980e-bb26ac241fef.jpg)
+### Edit
+![edit](https://user-images.githubusercontent.com/57344019/83946462-35f4e480-a83b-11ea-8d04-f2ead93813ec.jpg)
